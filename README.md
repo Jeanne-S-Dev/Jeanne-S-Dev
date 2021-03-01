@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="img/face_co(1).svg" alt="" width="50" height="50">
+<img src="img/face_co(1).svg" alt="" width="150" height="150">
 <h1>Salut ! 👋</h1>
 <h2>Moi c'est Jeanne S., je suis intégratrice web et depuis peu développeuse web.</h2>
 <p>Pationnée par les langages du web, j'aime surtout la partie intégration. Transformer des maquettes en sites web, puis la partie pour rendre le tout dynamique avec du développement JavaScript.</p>
